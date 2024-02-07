@@ -2,6 +2,6 @@
   "name": "flechemano",
   "website": "https://github.com/flechemano",
   "description": "mine",
-  "logo": "",
+  "logo": "(https://raw.githubusercontent.com/flechemano/metadata.json/main/berafy-image.png)",
   "twitter": "https://twitter.com/oktbank1"
 }
