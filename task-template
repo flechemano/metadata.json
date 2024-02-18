@@ -3,7 +3,7 @@ task_name: 'final-task'
 author: 'Koii'
 description: 'flechemano'
 repositoryUrl: 'https://raw.githubusercontent.com/flechemano/metadata.json/main/task-template' #replace with your own repo url
-imageUrl: 'imageUrl'
+imageUrl: 'https://raw.githubusercontent.com/flechemano/metadata.json/main/berafy-image.png'
 # network value can be DEVELOPMENT , ARWEAVE or IPFS, Recommended IPFS when deploying to testnet as the cli automatically takes care of uploading the executable with the help of web3.js key
 task_executable_network: 'IPFS'
 # Path to your executable webpack if the selected network is IPFS and in case of DEVELOPMENT  name it as main
