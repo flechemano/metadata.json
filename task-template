@@ -1,8 +1,8 @@
 # Name and metadata of your task
-task_name: 'task name'
+task_name: 'final-task'
 author: 'Koii'
-description: 'description'
-repositoryUrl: 'https://github.com/koii-network/task-template' #replace with your own repo url
+description: 'flechemano'
+repositoryUrl: 'https://raw.githubusercontent.com/flechemano/metadata.json/main/task-template' #replace with your own repo url
 imageUrl: 'imageUrl'
 # network value can be DEVELOPMENT , ARWEAVE or IPFS, Recommended IPFS when deploying to testnet as the cli automatically takes care of uploading the executable with the help of web3.js key
 task_executable_network: 'IPFS'
